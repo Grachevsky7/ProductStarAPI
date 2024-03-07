@@ -1,4 +1,4 @@
-# ProductStarAPI
+# TwitterAPI
 HTTP методы c URL и примером запроса:<br />
 POST - localhost:5000/twit - {"id": 1, "body": " hello", "author": "@Sam"}<br />
 GET - localhost:5000/twit<br />
